@@ -11,3 +11,5 @@ To generate new images run **`generate.py`**.
 ```sh
 python3 generate.py -load_path /path/to/pth/checkpoint -num_output n
 ```
+### Generate MNIST with 2 Digits
+run the file **`two_digits_mnist.py`** in mnist_new folder
