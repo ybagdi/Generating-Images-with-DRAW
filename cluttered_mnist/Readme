@@ -1,0 +1,4 @@
+This is an ongoing experimentation.
+Aim: to classify images using selective attention of DRAW.
+
+Current status: the current implementation not able to classify even 1 image correctly.
